@@ -1,1 +1,1 @@
-{"_default": {}}
+{"_default": {"1": {"symbol": "BTCUSDT", "buy_price": 10000, "take_profit": 11000, "tralling_take_profit": 0.05, "stop_order": 0, "createdAt": "27/08/2021 06:59:19"}}}
